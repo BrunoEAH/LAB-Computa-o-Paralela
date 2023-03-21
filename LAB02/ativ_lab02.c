@@ -3,8 +3,8 @@
 #include <sys/wait.h>
 
 
-/* No código dividimos o a multiplicacao do fatorial em
- duas metades, assim quando usada funcao fork o processo
+/* No código dividimos a multiplicacao do fatorial em
+ duas metades, assim quando usada a funcao fork o processo
  pai e o processo filho poderão executar duas funcoes e
  no final multiplica-las, exibindo o resultado do fatorial. */
 
