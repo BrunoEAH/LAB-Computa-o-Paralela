@@ -1,6 +1,6 @@
 Orientação para a execução do "Trapezio_Paralelo.c":
 
-Por usar a biblioteca pthreads, deve-se colocar o número de threads no comando a execução.
+Por usar a biblioteca pthreads, deve-se colocar o número de threads no comando da execução.
 
 Exemplo:
 
